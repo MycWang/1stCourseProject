@@ -8,8 +8,17 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ## The variables
 ### 1st column: Subject
+Subject who performed the activity for each window sample. Its range is from 1 to 30
 
 ### 2nd column: Activity
+6 activitys indentified:
+* WALKING
+* WALKING_UPSTAIRS
+* WALKING_DOWNSTAIRS
+* SITTING
+* STANDING
+* LAYING
+
 
 ### 3rd-68th column: Signals Captured
 
